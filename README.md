@@ -5,6 +5,6 @@ I am a student at NIT JAMSHEDPUR ,pursuing MCA.
 <a href="anakumari23exam@gmail.com">anakumari23exam@gmail.com</a>
 </br>
 CONNECT ME ON:</br>
-LINKEDIN:<a href="Bandana Kumari Nayak">BANDANA KUMARI NAYAK</a>
+<img src="download1.png">LINKEDIN:<a href="Bandana Kumari Nayak">BANDANA KUMARI NAYAK</a>
 </br>
 HACKERRANK:<a href="@bandana14">bandana14</a>
