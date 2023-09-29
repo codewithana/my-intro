@@ -7,4 +7,4 @@ I am a student at NIT JAMSHEDPUR ,pursuing MCA.
 CONNECT ME ON:</br>
 <img src="download1.png">LINKEDIN:<a href="Bandana Kumari Nayak">BANDANA KUMARI NAYAK</a>
 </br>
-HACKERRANK:<a href="@bandana14">bandana14</a>
+<img src="download1.png">HACKERRANK:<a href="@bandana14">bandana14</a>
